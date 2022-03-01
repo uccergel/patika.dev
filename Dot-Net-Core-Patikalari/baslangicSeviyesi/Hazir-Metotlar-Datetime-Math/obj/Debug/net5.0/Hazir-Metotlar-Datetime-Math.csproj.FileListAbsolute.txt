@@ -1,0 +1,16 @@
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\bin\Debug\net5.0\Hazir-Metotlar-Datetime-Math.exe
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\bin\Debug\net5.0\Hazir-Metotlar-Datetime-Math.deps.json
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\bin\Debug\net5.0\Hazir-Metotlar-Datetime-Math.runtimeconfig.json
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\bin\Debug\net5.0\Hazir-Metotlar-Datetime-Math.runtimeconfig.dev.json
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\bin\Debug\net5.0\Hazir-Metotlar-Datetime-Math.dll
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\bin\Debug\net5.0\ref\Hazir-Metotlar-Datetime-Math.dll
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\bin\Debug\net5.0\Hazir-Metotlar-Datetime-Math.pdb
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.csproj.AssemblyReference.cache
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.AssemblyInfoInputs.cache
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.AssemblyInfo.cs
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.csproj.CoreCompileInputs.cache
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.dll
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\ref\Hazir-Metotlar-Datetime-Math.dll
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.pdb
+C:\Users\uccergel\Desktop\Cem\Patika\DotNetBaslangic\Hazir-Metotlar-Datetime-Math\obj\Debug\net5.0\Hazir-Metotlar-Datetime-Math.genruntimeconfig.cache
